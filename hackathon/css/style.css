@@ -16,6 +16,37 @@ nav {
   background-color: #d5ad00;
 }
 
+main {
+  padding: 60px 0;
+}
+
+
+.drk-bg {
+  background-color: #b47f03;
+  border-left: white solid 2px;
+  border-bottom: white solid 2px;
+  color: white;
+}
+
+.med-bg {
+  background-color: #e0b233;
+  border-left: white solid 2px;
+  border-bottom: white solid 2px;
+  color: white;
+
+}
+
+.lgt-bg {
+  background-color: #edd43e;
+  border-left: white solid 2px;
+  color: white;
+  border-bottom: white solid 2px;
+}
+
+.header-row {
+  height:10%;
+}
+
 .footer i+h6 {
   font-size: xx-small;
 }
@@ -26,6 +57,7 @@ nav {
 }
 
 .footer {
+  background-color: white;
   position: absolute;
   bottom: 0;
   width: 100%;
