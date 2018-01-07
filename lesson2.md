@@ -18,5 +18,7 @@ Cordova is an open-source project that makes it possible to create native mobile
 
 Ionic bakes in Cordova support, so you can build apps that look like native apps AND that can behave like native apps using the device features that you don't have access to ordinarily with just a web application.  Better yet, when you're ready to package your app for the different app stores, Ionic provides tooling to do that too.  
 
-## Moving On
+## Moving On from Here
 :tada: Yay! :tada: You've learned what Ionic is and should have a solid, albeit basic, understanding of what it does and why you'd use it. That's enough boring theory for now.  Next we'll make a couple of changes to the sample code, and in the process learn about some of the basic development processes. 
+
+## UP NEXT: [Lesson 3 ](https://github.com/jmeade11/mustlovedogs/blob/master/lesson3.md)
