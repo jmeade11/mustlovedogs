@@ -9,7 +9,7 @@ For example, let's say you want to create a login component that you'll call `<m
 Angular has lots of things baked into the framework that make it incredibly powerful, including some pre-built element and attribute components (yes, you can also build my-thing that you add as an attribute to straight-up HTML elements to turbocharge them with your own logic). We call this [syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar), meaning that Angular makes working with the Javascript language *sweeter for human consumption*.  Underneath the hood, it's still Javascript, but the framework makes working with Javascript easier and better when you're creating complex apps.
 
 ## Why Use Ionic If Angular Is so Great?
-Ionic takes full advantage of Angular and adds its own dash of syntactic sugar on top.  It adds dozens of [components](https://ionicframework.com/docs/components/#overview), which are optimized for operation on mobile devices, and designed to mirror the look, feel and behavior of mobile application elements.  Nearly all of the Ionic components also morph automatically to match the OS style of the device on which they are running.   In other words, the same list element looks like an iOS-style list when run on an iPhone, but like the Android styled lists on a Samsung.
+Ionic takes full advantage of Angular and adds its own dash of syntactic sugar on top.  It adds dozens of [components](https://ionicframework.com/docs/components/#overview), which are optimized for operation on mobile devices, and designed to mirror the look, feel and behavior of mobile application interface elements.  Nearly all of the Ionic components also morph automatically to match the OS style of the device on which they are running.   In other words, the same list element looks like an iOS-style list when run on an iPhone, but like the Android styled lists on a Samsung.
 
 Ionic also adds some other powerful features to mobile development that you won't get with Angular out of the box.  Namely, it provides a wrapper for working with Cordova. Remember I said I'd explain what Cordova was later?  That's now. :smiley:  
 
@@ -19,6 +19,6 @@ Cordova is an open-source project that makes it possible to create native mobile
 Ionic bakes in Cordova support, so you can build apps that look like native apps AND that can behave like native apps using the device features that you don't have access to ordinarily with just a web application.  Better yet, when you're ready to package your app for the different app stores, Ionic provides tooling to do that too.  
 
 ## Moving On from Here
-:tada: Yay! :tada: You've learned what Ionic is and should have a solid, albeit basic, understanding of what it does and why you'd use it. That's enough boring theory for now.  Next we'll make a couple of changes to the sample code, and in the process learn about some of the basic development processes. 
+:tada: Yay! :tada: You've learned what Ionic is and should have a solid, albeit basic, understanding of what it does and why you'd use it. That's enough boring theory for now.  Next we'll make a couple of changes to the sample code, and in the process learn about some of the basic development workflows. 
 
 ## UP NEXT: [Lesson 3 ](https://github.com/jmeade11/mustlovedogs/blob/master/lesson3.md)
