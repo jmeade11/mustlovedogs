@@ -15,13 +15,13 @@ Follow these steps to install the CLI and Visual Studio Code (you'll only instal
 
 ### 1. Install Node: https://nodejs.org/en/download/ 
 
-You can check if node is already installed by typing `node -v` in your terminal on Mac (`Applications > Utilities > Terminal` or type `terminal` in spotlight) or command window on Windows (`All Apps > Windows System > Run` or just type `run` in the Cortana search]).  If you get a version number back from that command, it's installed.  The current version is 8.9.4, but I have 6.10.3 and I didn't have any issues installing the latest Ionic CLI.  If an older version of node is installed and you would like to upgrade, download and install the current version from the link above (there's no separate 'upgrade' package).  
+You can check if Node is already installed by typing `node -v` in your terminal on Mac (`Applications > Utilities > Terminal` or type `terminal` in spotlight) or command window on Windows (`All Apps > Windows System > Run` or just type `run` in the Cortana search]).  If you get a version number back from that command, it's installed.  The current version is 8.9.4, but I have 6.10.3 and I didn't have any issues installing the latest Ionic CLI.  If an older version of Node is installed and you would like to upgrade, download and install the current version from the link above (there's no separate 'upgrade' package).  
 
-If node is not installed download the Windows installer or Mac installer found at the top of the page under the LTS label (which will be the latest stable version), and run the installer.  
+If Node is not installed, download the Windows installer or Mac installer found at the top of the Node download page under the LTS label (which will be the latest stable version), and run the installer.  
 
 ### 2. Make sure you have NPM (Node Package Manager) 
 
-To check if npm is installed type `npm -v`.  It should be installed with node, but if not you can run: `npm install npm@latest -g` or if you have a Mac you'll need to type `sudo npm install npm@latest -g`.  When you use sudo, which stands for *super user do*, it will prompt you to enter your password.  This is just the password that you use when you login on your machine. Also, don't worry about what directory you're in when you type these commands because the -g part is telling it to install globally. 
+To check if npm is installed type `npm -v`.  It should be installed with Node, but if not you can run: `npm install npm@latest -g` or if you have a Mac you'll need to type `sudo npm install npm@latest -g`.  When you use sudo, which stands for *super user do*, it will prompt you to enter your password.  This is just the password that you use when you login on your machine. Also, don't worry about what directory you're in when you type these commands because the -g part is telling it to install globally. 
 
 ### 3. Install the CLI for Ionic (and Cordova, I'll explain about this later)
 
