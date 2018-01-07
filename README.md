@@ -58,7 +58,7 @@ This is going to run a bunch of build scripts that will compile your project fil
      External: http://172.20.20.20:8100
      DevApp: test@8100 on My-MacBook-Pro.local
 ```
-5. Open up Chrome browser (if you don't have Chrome, you should install it for development).  Enter the url: `http://localhost:8100/ionic-lab`.  
+7. Open up Chrome browser (if you don't have Chrome, you should install it for development).  Enter the url: `http://localhost:8100/ionic-lab`.  
 
 Inside Ionic Lab, there's a dropdown link on the top left that reads "Platforms".  You can choose to show multiple versions of the app side-by-side on different device platforms.  (This is why you want to use Chrome, the lab features only work in Chrome AFAIK).  
 
