@@ -1,3 +1,6 @@
+# Getting Started
+In order to work with the Ionic framework, you'll need to install some tools on your machine.  Follow the steps below to set up your dev environment and test it out by creating and running a project locally. 
+
 ## Setting Up A Dev Environment
 
 Ionic has a CLI (command line interface) for generating projects and new components within your projects.  Via the CLI, all the orchestration of the various module loaders, transpilers, linters, etc. is done in the background so you don't have to worry about any of the technical details around these tools in order to start using Ionic. 
@@ -65,6 +68,8 @@ This is going to run a bunch of build scripts that will compile your project fil
 
 Inside Ionic Lab, there's a dropdown link on the top left that reads "Platforms".  You can choose to show multiple versions of the app side-by-side on different device platforms.  (This is why you want to use Chrome, the lab features only work in Chrome AFAIK). 
 
-:tada: **Awesome!** :tada: You've installed the tools needed for Ionic development and learned how to create and run projects.  When you're done looking at the starter app I created for you, you can go on to the next step and learn about the file structure and how to make some simple changes to add some of the features we need.
-
 To stop the local server from running, go back to VSC and type `CTRL+C` in the integrated terminal.
+
+## Next Step
+
+:tada: **Awesome!** :tada: You've installed the tools needed for Ionic development and learned how to create and run projects.  When you're done looking at the starter app I created for you, you can go on to the next step and learn about the file structure and how to make some simple changes to add some of the features we need.
