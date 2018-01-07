@@ -10,7 +10,7 @@ Ionic has a CLI (command line interface) for generating projects and new compone
 >Angular has it's own separate CLI for pure Angular projects.
 
 
-Follow these steps to install the CLI and Visual Studio Code (you'll only install these once):
+Follow these steps to install the Ionic CLI and Visual Studio Code (you'll only install these once):
 
 ### 1. Install Node: https://nodejs.org/en/download/ 
 
