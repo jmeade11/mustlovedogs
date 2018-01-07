@@ -1,4 +1,4 @@
-# Understanding Ionic Development
+# Understanding Ionic
 This won't be a comprehensive explanation of how Ionic applications work, but I think it's important to understand some of the basic concepts.
 
 ## Ionic is built on Angular
