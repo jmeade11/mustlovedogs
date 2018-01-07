@@ -70,6 +70,9 @@ Inside Ionic Lab, there's a dropdown link on the top left that reads "Platforms"
 
 To stop the local server from running, go back to VSC and type `CTRL+C` in the integrated terminal.
 
-## Next Step
+## Time to Learn How Ionic Works...
 
-:tada: **Awesome!** :tada: You've installed the tools needed for Ionic development and learned how to create and run projects.  When you're done looking at the starter app I created for you, you can go on to the next step and learn about the file structure and how to make some simple changes to add some of the features we need.
+:tada: **Awesome!** :tada: You've installed the tools needed for Ionic development and learned how to create and run projects.  When you're done looking at the starter app I created for you, you can go on to the next step and learn about how Ionic works.
+
+
+## UP NEXT: [Lesson 2](https://github.com/jmeade11/mustlovedogs/blob/master/lesson2.md)
