@@ -56,7 +56,7 @@ To run the project locally, follow these steps:
 * Get Ionic DevApp for easy device testing: https://bit.ly/ionic-dev-app
 ```
 5. Normally, at this point you could run the project and start developing your app, but I want you to first navigate to the newly created folder in your Windows Explorer or Mac Finder and copy the entire folder named src that you unzipped in step 1 above, into the project folder and **replace the entire folder named src** that was created for you.
-6. Now, go back into VSC, open the project you created by choosing `File > Open`.  In the integrated terminal (`View > Integrated Terminal` if it's not open already), type `ionic start`
+6. Now, go back into VSC, open the project you created by choosing `File > Open`.  In the integrated terminal (`View > Integrated Terminal` if it's not open already), type `ionic serve`
 This is going to run a bunch of build scripts that will compile your project files and start up a server locally on your machine.  When it's done, you'll see some kind of message like:
 ```
 [OK] Development server running!
